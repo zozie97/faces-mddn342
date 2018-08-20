@@ -1,0 +1,28 @@
+{
+  "commits": [
+    {
+      "sha": "1ad75003d96d7eef868e1a3a620764ca9c62211a",
+      "name": "final_version"
+    },
+    {
+      "sha": "d7bbd82b2afc1557b3dd983584245b1ecbcc8904",
+      "name": "extra_experiment"
+    },
+    {
+      "sha": "20666f4397c9c985f6ae3cd16092822f535da325",
+      "name": "distribution_2"
+    },
+    {
+      "sha": "e5580fe1b67d323b09117cd8da786cf4216ae912",
+      "name": "distribution_1"
+    },
+    {
+      "sha": "523163867cf7b3a8c967cd083f764f80eb0b2e43",
+      "name": "randomizer_2"
+    },
+    {
+      "sha": "cc9bed459e62d1ac8cc0fe7234370846db35c254",
+      "name": "randomizer_1"
+    }
+  ]
+}
